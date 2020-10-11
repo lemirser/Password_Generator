@@ -16,7 +16,7 @@ None
 
 ```python
 > python pass_gen.py
-Enter you desired password length: 10
+Enter your desired password length: 10
 
 
 WOPEZ,yF0u
@@ -27,10 +27,10 @@ WOPEZ,yF0u
 
 ```python
 > python pass_gen.py
-Enter you desired password length: abc2
+Enter your desired password length: abc2
 Please input a valid number!
 
-Enter you desired password length: 12
+Enter your desired password length: 12
 
 ZqDUG]x_ywbr
 ```

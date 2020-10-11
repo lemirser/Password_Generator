@@ -14,7 +14,7 @@ user_input = True
 
 while True:
     try:
-        len = int(input("Enter you desired password length: "))
+        len = int(input("Enter your desired password length: "))
         if type(len) == int:
             break
     except ValueError:
